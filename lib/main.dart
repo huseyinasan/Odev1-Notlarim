@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
       title: 'Calculator',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        primarySwatch: Colors.grey,
+        primarySwatch: Colors.purple,
       ),
       home: MyHomePage(title: 'Calculator'),
     );
